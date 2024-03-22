@@ -1,1 +1,1 @@
-os.environ["APIKEY"] = 'zAT3Vu_VzCH8xg2NjoxY'
+APIKEY = 'zAT3Vu_VzCH8xg2NjoxY'
